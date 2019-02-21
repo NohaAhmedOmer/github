@@ -17,6 +17,7 @@ public class Github {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println(" hello every body");
+         System.out.println(" hello sec 3");
         
     }
     
